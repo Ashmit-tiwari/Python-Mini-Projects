@@ -8,7 +8,7 @@ If the total number of rounds is even, Player 2 wins.
 The program should display the winner and a congratulatory message.
 """
 
-print("-----THE------PICKUP-----GAME--------")
+print("-----THE------Lucky---Number-----GAME--------")
 player_1 = input("Enter the player name:")
 player_2 = input("Enter the player name: ")
 Total_Rounds = int(input("Enter the numbers of Rounds--"))
